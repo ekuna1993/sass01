@@ -1,0 +1,25 @@
+.section-news {
+    padding: 30px 0;
+    .conteiner {
+        max-width: 1170px;
+        width: 100%;
+        margin: 0 auto;
+        background-color: aqua;
+      .title {
+        font-size: 30px;
+        color: red;
+      }
+      .wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+         .image {
+            width: 400px;
+         }
+         p {
+            width: 600px;
+         }
+         
+      }
+    }  
+}
